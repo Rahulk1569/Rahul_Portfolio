@@ -1,4 +1,4 @@
 function toggleMenu() {
-  const menu = document.querySelector(".width-66");
+  const menu = document.querySelector(".mianpanel");
   menu.classList.toggle("open");
 }
